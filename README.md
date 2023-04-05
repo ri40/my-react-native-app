@@ -34,3 +34,13 @@ TypeScript is a superset of JavaScript which gives you static types and powerful
 ## 📝 Notes
 
 - [Expo TypeScript guide](https://docs.expo.dev/versions/latest/guides/typescript/)
+
+
+## how to start 🏁
+- Terminal Commands
+- To Create a blank TypeScript config: 
+- run this command `npx create-expo-app -t` 
+- then name your project 
+- after that Choose from the list `>Blank (TypeScript)`
+- `cd` into the project
+- 
